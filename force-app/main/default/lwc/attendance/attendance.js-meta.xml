@@ -16,7 +16,7 @@
             </objects>
         </targetConfig>
         <targetConfig targets="lightningCommunity__Default">
-            <property name="recordId" type="String" label="Record ID"/>
+            <property name="recordId" type="String" label="Record ID" default="{!recordId}"/>
         </targetConfig>
     </targetConfigs>
 </LightningComponentBundle>
