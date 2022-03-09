@@ -1,0 +1,17 @@
+{
+    "orgName": "Purple Maia Foundation",
+    "edition": "Enterprise",
+    "features": ["EnableSetPasswordInApi"],
+    "settings": {
+      "lightningExperienceSettings": {
+        "enableS1DesktopEnabled": true
+      },
+      "mobileSettings": {
+        "enableS1EncryptedStoragePref2": false
+      },
+      "languageSettings": {
+        "enableTranslationWorkbench": true
+      }
+    }
+  }
+  

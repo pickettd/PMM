@@ -17,6 +17,6 @@
             "default": false
         }
     ],
-    "namespace": "pmdm",
+    "namespace": "",
     "sourceApiVersion": "49.0"
 }
